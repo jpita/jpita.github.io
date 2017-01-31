@@ -1,5 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/pitajose)  
 [Facebook](https://www.facebook.com/dvpita)  
+[Instagram](https://www.instagram.com/dvpita)  
 [Twitter](https://twitter.com/dvpita)  
 [GitHub](https://github.com/jpita)  
 [Email](mailto:dvpita@gmail.com)  
