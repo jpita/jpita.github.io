@@ -20,18 +20,22 @@
 * Set up Jenkins projects and builds to run the tests
 
 ## [Blip](http://www.blip.pt) - February 2015 -> June 2015
+
 #### Projects
 * Betfair sportsbook app (iOS devices)
+
 #### Details of work
 * Create mindmaps with the features 
 * Manual testing of the features and bug fixes in the devices (iPhone and iPad), test automation using Calabash (ruby)
 
 ## [CMP](http://www.teamcmp.com) - June 2015 -> now
+
 #### Projects
 * [BaDoinkVR.com](http://www.BaDoinkVR.com)
 * [FreeVRPlayer.com](http://www.FreeVRPlayer.com)
 * [VRCosplayX.com](http://www.VRCosplayX.com)
 * [18yoga.com](http://www.18yoga.com)
+
 #### Details of work
 * Responsible for testing and automating (selenium webdriver + Java + testNG + jenkins) 4 websites (video content) 
 * Manual testing of a virtual reality player on iOS, Android and Windows
