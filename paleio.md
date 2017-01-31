@@ -16,5 +16,5 @@ Since July 2012 I've worked in a wide range of methodologies, industries, techno
 The best skill I've learned and make sure to continue to improve, is how to communicate and get all the information you from people I talk to.  
 
 ## Availability
-Right not I'm working in sunny Barcelona @ [teamcmp](teamcmp.com).  
+Right not I'm working in sunny Barcelona @ [teamcmp](http://teamcmp.com).  
 I'm not looking to relocate (specially for a northern cold country), but would be very much interested in a full time remote work position.  
