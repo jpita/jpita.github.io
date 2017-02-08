@@ -1,0 +1,159 @@
+/* Reset */
+
+html {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+}
+
+*,
+*:before,
+*:after {
+  margin:0;
+  padding: 0;
+  box-sizing: inherit;
+}
+h1,h2,h3{
+  margin: 0;
+  padding: 0;
+}
+
+/* End Reset */
+
+/* global */
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+body {
+  background: #F5F7FA;
+}
+
+/* end global */
+
+
+.body-wrapper {
+  max-width: 1440px;
+  margin:0 auto;
+}
+
+.sidebar-left {
+  width: 35%;
+  height: 100%;
+  padding: 5rem;
+  position: fixed;
+  background: #FFFFFF;
+  box-shadow: 25px 0px 50px 0 hsla(216, 33%, 90%, 0.6);
+}
+.sidebar-right {
+  width: 65%;
+  height: 100%;
+  padding: 5rem;
+}
+
+/* typography */
+
+h1 {
+  font-size: 2.618em;
+  font-weight: 700;
+  color:#2D3547;
+  margin-bottom: 0.5rem;
+}
+h2{
+  font-size: 0.9em;
+  font-weight: 400;
+  color: rgba(45, 53, 71, 0.7);
+}
+p {
+  font-size: 0.9em;
+  color:rgba(45, 53, 71, 0.7);
+  margin-bottom: 0.5rem;
+  line-height: 1.8;
+  max-width: 700px;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(45, 53, 71, 0.7);
+  font-weight: 700;
+  transition: color .12s ease-in-out;
+}
+
+a:hover {
+  transition: color .12s ease-in-out;
+  color: rgba(45, 53, 71, 0.5);
+}
+
+#content h2 {
+  font-size: 1.618em;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+  position: relative;
+}
+#content h2:after {
+  height: 20px;
+  width: 260px;
+  content: '';
+  background: rgba(45, 53, 71, 0.05);
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+/* typography end */
+
+
+/* intro section */
+
+.avatar {
+  border-radius:100px;
+  margin-bottom: 2rem;
+}
+.intro h2 {
+  margin-bottom: 2rem;
+}
+
+.button {
+  display: block;
+  background: #4786FF;
+  text-align: center;
+  font-weight: 400;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius:5px;
+  color:#FFFFFF;
+  box-shadow: 0 4px 20px 0 rgba(71,134,255,0.50);
+
+}
+.button:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+/* intro section end */
+
+
+
+/* articles */
+
+article {
+  margin-bottom: 2rem;
+}
+
+/* social links */
+
+.social-links {
+  list-style: none;
+  margin-bottom: 3rem;
+}
+.social-links li {
+  margin-right: 1rem;
+}
