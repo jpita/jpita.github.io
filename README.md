@@ -1,1 +1,1 @@
-echo "Hello World" > index.html
+Redirects to https://github.com/jpita
